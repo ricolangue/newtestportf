@@ -14,4 +14,4 @@ GIT File Path
 https://github.com/ricolangue/newtestportf.git
 
 Screenshot File Path
-scrn_file_path
+https://s3.console.aws.amazon.com/s3/buckets/flsdfs
